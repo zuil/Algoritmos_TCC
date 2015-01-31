@@ -1,0 +1,6 @@
+- O aqruivo "arquivo_pontos.txt" será o arquivo no qual os vertices da malha sera carregado.
+
+- Para a execução do arquivo digite na linha de comando: o nome do executave + quantidade de linhas + quantidade de coordenadas + quantidade de grupos.
+
+Por exemplo: kmeans.exe 14411 3 8.
+

@@ -1,0 +1,5 @@
+O arquivo "arquivo_pontos.txt", será o arquivo no qual será carregado os pontos da malha.
+
+para executar o algoritmo, digite na linha de comando o nome do executavel + quantidade de linhas.
+
+Por exemplo: sep.exe 14411
