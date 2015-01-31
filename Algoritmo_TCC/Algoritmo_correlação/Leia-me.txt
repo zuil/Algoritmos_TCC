@@ -1,0 +1,7 @@
+Para a execução é necessario preencher os arquivos "arq_malha1" e "arq_malha2", que são os arquivos os quais serão analisadas as correlações. 
+Isso produzira um resultado na tela com as correlações em relação a x, y e z.
+
+os parametros para a execução são: nome do executavave + quantidade de 
+linhas + quantidade de colunas.
+
+por exemplo: cor.exe 14411 3
